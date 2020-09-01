@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 [![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://anitab-org.zulipchat.com/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
@@ -7,6 +8,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/anitab-org/mentorship-android?style=social)](https://github.com/anitab-org/mentorship-android/network)
 [![GitHub stars](https://img.shields.io/github/stars/anitab-org/mentorship-android?style=social)](https://github.com/anitab-org/mentorship-android/stargazers)
 
+=======
+>>>>>>> parent of 4101e49... Merge pull request #1 from CodeChamp-SS/CodeChamp-SS-updating-readme
 =======
 >>>>>>> parent of 4101e49... Merge pull request #1 from CodeChamp-SS/CodeChamp-SS-updating-readme
 # Mentorship System (Android)
